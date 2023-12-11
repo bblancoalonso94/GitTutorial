@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
         setTheme(R.style.Base_Theme_SplashScreen)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        //:)
+
 
     }
 }
